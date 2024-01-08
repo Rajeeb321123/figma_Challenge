@@ -29,7 +29,7 @@ export default function Home() {
       <div
         className="flex flex-row gap-5 mt-32"
       >
-        <div className="m-5 p-4 text-6xl flex-1 font-extrabold drop-shadow-xl text-blue-600">
+        <div className="m-5 p-4 text-4xl flex-1 font-extrabold drop-shadow-xl text-blue-600">
           Subscribe to get Updates
         </div>
         <div
